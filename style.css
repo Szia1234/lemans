@@ -1,0 +1,36 @@
+.szia
+{
+font-weight: bold;
+color: yellow;
+}
+
+body
+{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(167, 153, 153);
+}
+h1
+{
+    font-variant: small-caps;
+}
+p,ul
+{
+text-align: justify;
+}
+
+.szia2
+{
+    margin: 20px;
+}
+
+a
+{
+    text-decoration: none;
+    color: #d3d3d3;
+}
+
+a:hover
+{
+    color: red;
+}
